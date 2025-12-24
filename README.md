@@ -1,0 +1,1 @@
+# GiantWS_DynamicQR
